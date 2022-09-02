@@ -6,3 +6,6 @@
 [Notebook](https://github.com/Lndswggs/duke-coursera-ccf-lab1/blob/main/CloudCompFdns.ipynb)
 
 [Colab](https://colab.research.google.com/drive/1krUQBMxwRquP9diU_ulQBGZu-C0GYY-Y?usp=sharing)
+
+# First Jupyter 
+[ipynb](https://github.com/Lndswggs/duke-coursera-ccf-lab1/blob/main/Practice-Markdown.ipynb)
