@@ -12,3 +12,7 @@
 
 # Shareable Lab Link
 [Lab Link]( https://hub.labs.coursera.org:443/connect/sharedxykfwhji?forceRefresh=false)
+
+
+# Effective technical project management
+[Reading](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/#effective-async-technical-project-management)
